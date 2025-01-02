@@ -1,16 +1,14 @@
-## Hi there 👋
+## EN
+Hi there 👋 here, you'll find projects focused on data engineering, featuring technologies like SQL, Python, data pipelines, ETL, APIs, and cloud computing. My portfolio showcases work in data integration, process automation, and building scalable pipelines, always aiming to solve real-world problems with efficiency and creativity. 🚀
 
-<!--
-**felipecorreia/felipecorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## PT-BR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Aqui você pode encontrar projetos focados em engenharia de dados, explorando tecnologias como SQL, Python, pipelines de dados, ETL, APIs, e cloud computing. Meu portfólio inclui práticas de integração de dados, automação de processos e construção de pipelines escaláveis, sempre buscando resolver problemas reais com eficiência e criatividade. 🚀
+
+
+
+
+
+
+
